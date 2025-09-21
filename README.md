@@ -31,7 +31,14 @@ Criar uma **landing page moderna e responsiva** para divulgar o aplicativo **Mel
 - **CSS3 / TailwindCSS** → Estilização responsiva  
 - **Google Fonts** → Tipografia personalizada  
 - **Font Awesome** (planejado) → Ícones visuais  
-- **JavaScript (opcional)** → Interações e animações  
+- **JavaScript (opcional)** → Interações e animações
+
+## 👥 Nossa equipe 
+- Dennis Nieto Generoso RM563671
+- Giovanna da Silva Santos RM566301
+- Giovanna Luiza Bento RM563203
+- Isabella Jardim Marques RM566470
+- Mayene Moura da Silva RM564624
 
 ## 📥 Como Executar Localmente
 ```bash
@@ -42,3 +49,4 @@ git clone https://github.com/seu-usuario/melodia-landing.git
 cd melodia-landing
 
 # Abrir o index.html no navegador
+
