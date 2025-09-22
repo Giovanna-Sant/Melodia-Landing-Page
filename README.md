@@ -3,6 +3,8 @@
 Landing Page desenvolvida para o **App Melodia**, um aplicativo de streaming de músicas que oferece **qualidade de som superior, playlists personalizadas e descoberta de novos artistas**.  
 Projeto feito como parte da disciplina de **Engenharia de Software - Front-end Design**.
 
+## 💻Github Pages
+- https://giovanna-sant.github.io/Melodia-Landing-Page/
 
 ## 📌 Objetivo
 Criar uma **landing page moderna e responsiva** para divulgar o aplicativo **Melodia**, destacando suas funcionalidades, diferenciais e incentivando o download.
